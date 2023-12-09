@@ -10,7 +10,7 @@ Initially, this project was made in google collabs. It is compatible with other 
 !chmod 600 ~/.kaggle/kaggle.json
 !kaggle datasets download -d camnugent/california-housing-prices
 ```
-It is not very complicated to work on a custom file structure, simply edit these lines of code in [in:17]
+In order to work on a custom file structure, simply edit these lines of code in [in:17]
 ```
 pd_housing = pd.read_csv('/content/housing.csv')
 pd_housing.head()
