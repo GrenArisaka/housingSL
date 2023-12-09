@@ -1,4 +1,4 @@
-![image](https://github.com/GrenArisaka/housingSL/assets/58541475/b1e0a253-08c2-471e-b4b0-289634e6c0b6)# housingSL
+# housingSL
 A Supervised Machine Learning model to predict californian housing prices. Implements multiple learning algorithms.
 # About
 This project was intended to be made as a submission for one of my college-run course final assignment on Artificial Intelligence. This project prepares the dataset, then uses multiple supervised machine learning algorithms to build a model to predict housing prices and evaluate it's performance. More information regarding the methods used are covered in the [Manualbook](Manualbook_edit.pdf) file. It uses california-housing-prices dataset obtained from kaggle (https://www.kaggle.com/datasets/camnugent/california-housing-prices). 
